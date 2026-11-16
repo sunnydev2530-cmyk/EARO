@@ -1,0 +1,6 @@
+{
+  "name": "Arrow Escape Puzzle",
+  "description": "A sleek offline logic puzzle game with 10 handcrafted levels, glowing directional arrows, solver hints, undo, and procedural audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
